@@ -8,7 +8,7 @@ to any file that already has one.
 
 ## install
 
-    go get -u github.com/google/addlicense
+    go get -u github.com/yulincoder/addlicense
 
 ## usage
 
